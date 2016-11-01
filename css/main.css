@@ -77,3 +77,21 @@ nav {
   margin: 1.5rem 0;
 }
 
+.btn-small {
+text-align: center;
+text-decoration: none;
+font-size: .875rem;
+color: #fff;
+}
+
+.btn {
+  border: 1px solid #333;
+  background-color: #333;
+  border-radius: 10px;
+  padding: .5rem;
+}
+
+.btn:hover {
+  background-color: #000;
+  border: 1px solid #000;
+}
