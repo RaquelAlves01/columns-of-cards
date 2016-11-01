@@ -27,3 +27,25 @@ body {
   margin: 0 0 2rem;
 }
 
+.column-1 , .column-2 , .column-3, .column-4 {
+  flex: 35rem;
+  width: 25%;
+  border-left: 1px solid #000;
+  padding: 1rem;
+}
+
+.column-1 {
+  background-color: #e2e2e2;
+}
+
+.column-2 {
+  background-color: #ccc;
+}
+
+.column-3 {
+  background-color: #aaa;
+}
+
+.column-4 {
+  background-color: #999;
+}
